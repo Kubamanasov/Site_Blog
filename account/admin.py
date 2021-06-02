@@ -7,3 +7,5 @@ admin.site.register(User)
 
 
 
+#admin@gmain.com
+#1998

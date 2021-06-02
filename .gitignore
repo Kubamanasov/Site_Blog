@@ -14,6 +14,14 @@ media/
 .idea/
 .vscode/
 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Eldiyar0220/python_blog.git
+git push -u origin main
+
+
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
 # <django-project-name>/staticfiles/
